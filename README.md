@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm L0GIN0UT</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&center=true&pause=1000&color=8BF700&width=435&lines=Python+backend+dev+%7C+end-to-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&center=true&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+L0GIN0UT" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">Python backend dev | end-to-end</p>
 
 <p align="center">
   <a href="https://l0gin0ut.github.io/"><img src="https://img.shields.io/badge/Site-05070A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -20,9 +20,9 @@
   </picture>
 </p>
 
-<div align="center">Python-разработчик из Самары. Собираю бэкенд-системы с нуля — от архитектуры до продакшена.</div>
+<div align="center">Python developer based in Samara, Russia. Building backend systems from scratch — from architecture to production.</div>
 
-## Стек
+## Tech Stack
 
 **Backend**
 
