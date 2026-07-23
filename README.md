@@ -28,11 +28,11 @@
 
 ## Featured Projects
 
-**[Insurance-Management-System](https://github.com/L0GIN0UT/Insurance-Management-System)** — система управления страхованием с 5 ролями пользователей (агент, урегулировщик, оператор, менеджер, админ). Микросервисная архитектура: React-фронт, FastAPI backend, отдельный auth-сервис, две PostgreSQL базы, есть desktop-версия на Electron.
+**[Insurance-Management-System](https://github.com/L0GIN0UT/Insurance-Management-System)** — insurance management system with 5 user roles (agent, adjuster, operator, manager, admin). Microservice architecture: React frontend, FastAPI backend, separate auth service, two PostgreSQL databases, plus a desktop version built with Electron.
 
-**[wedding_invitation](https://github.com/L0GIN0UT/wedding_invitation)** — система свадебных приглашений с несколькими способами авторизации: подтверждение по звонку (Flash Call) и OAuth2 через VK ID / Яндекс ID. FastAPI backend, деплой через Docker Compose.
+**[wedding_invitation](https://github.com/L0GIN0UT/wedding_invitation)** — wedding invitation system with multiple auth methods: phone verification via Flash Call and OAuth2 through VK ID / Yandex ID. FastAPI backend, deployed with Docker Compose.
 
-**[L0GIN0UT.github.io](https://github.com/L0GIN0UT/L0GIN0UT.github.io)** — сайт-визитка с портфолио проектов.
+**[L0GIN0UT.github.io](https://github.com/L0GIN0UT/L0GIN0UT.github.io)** — portfolio website.
 
 ## Tech Stack
 
