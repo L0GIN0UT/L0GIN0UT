@@ -26,6 +26,14 @@
   <img src="https://img.shields.io/badge/-Python%20developer%20based%20in%20Samara%2C%20Russia.%20Building%20backend%20systems%20from%20scratch%20%E2%80%94%20from%20architecture%20to%20production.-999999?style=flat-square" alt=""/>
 </p>
 
+## Featured Projects
+
+**[Insurance-Management-System](https://github.com/L0GIN0UT/Insurance-Management-System)** — система управления страхованием с 5 ролями пользователей (агент, урегулировщик, оператор, менеджер, админ). Микросервисная архитектура: React-фронт, FastAPI backend, отдельный auth-сервис, две PostgreSQL базы, есть desktop-версия на Electron.
+
+**[wedding_invitation](https://github.com/L0GIN0UT/wedding_invitation)** — система свадебных приглашений с несколькими способами авторизации: подтверждение по звонку (Flash Call) и OAuth2 через VK ID / Яндекс ID. FastAPI backend, деплой через Docker Compose.
+
+**[L0GIN0UT.github.io](https://github.com/L0GIN0UT/L0GIN0UT.github.io)** — сайт-визитка с портфолио проектов.
+
 ## Tech Stack
 
 **Backend**
@@ -54,3 +62,9 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elastic-stack)
 [![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=precommit&logoColor=black)](https://pre-commit.com/)
+
+## Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/L0GIN0UT/L0GIN0UT/main/metrics.svg" alt="metrics"/>
+</p>
