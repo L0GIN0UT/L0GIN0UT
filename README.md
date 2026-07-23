@@ -1,10 +1,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&center=true&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+L0GIN0UT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&center=true&pause=1000&color=8BF700&width=500&lines=Hi%2C+I'm+L0GIN0UT" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">Python backend dev | end-to-end</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python%20backend%20dev%20%7C%20end--to--end-8BF700?style=flat-square" alt=""/>
+</p>
 
 <p align="center">
   <a href="https://l0gin0ut.github.io/"><img src="https://img.shields.io/badge/Site-05070A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -20,7 +22,9 @@
   </picture>
 </p>
 
-<div align="center">Python developer based in Samara, Russia. Building backend systems from scratch — from architecture to production.</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python%20developer%20based%20in%20Samara%2C%20Russia.%20Building%20backend%20systems%20from%20scratch%20%E2%80%94%20from%20architecture%20to%20production.-999999?style=flat-square" alt=""/>
+</p>
 
 ## Tech Stack
 
