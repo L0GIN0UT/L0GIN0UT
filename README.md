@@ -1,5 +1,11 @@
-<h1 align="center">Hi, I'm L0GIN0UT 👋</h1>
-<p align="center">Fullstack Developer — Python-first backend, React/TS frontend, self-hosted infra</p>
+<h1 align="center">Hi, I'm L0GIN0UT</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BF700&width=435&lines=Fullstack+dev+(Python-heavy);Backend%3A+Django%2FDRF%2C+FastAPI;Self-hosted+infra+%26+DevOps" alt="Typing SVG" />
+  </a>
+</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BF700&width=435&lines=Python+backend+dev+%7C+end-to-end" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://t.me/L0GIN0UT"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
