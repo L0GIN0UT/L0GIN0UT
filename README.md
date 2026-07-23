@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BF700&width=435&lines=Fullstack+dev+(Python-heavy);Backend%3A+Django%2FDRF%2C+FastAPI;Self-hosted+infra+%26+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8BF700&width=435&lines=Python+backend+dev+%7C+end-to-end" alt="Typing SVG" />
   </a>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BF700&width=435&lines=Python+backend+dev+%7C+end-to-end" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://t.me/L0GIN0UT"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
@@ -52,10 +51,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticsearch&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?logo=precommit&logoColor=black)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L0GIN0UT&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0GIN0UT&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
